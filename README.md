@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Karan<br><br>CS student | Developer  <br><br>Building:<br>- MERN stack apps  <br>- AI-based tools  <br><br>Focused on:<br>- Problem solving  <br>- Real-world projects  <br>- Consistency  <br><br>📫 survekaran71@gmail.com
+## Karan<br><br>CS student | Developer  <br><br>Building:<br>- MERN stack apps  <br>- AI-based tools  <br><br>Focused on:<br>- Problem solving  <br>- Real-world projects  <br>- Consistency  <br>
 
 
 ## 🌐 Socials:
